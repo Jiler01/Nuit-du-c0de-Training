@@ -1,5 +1,5 @@
 
-print("hello")
+print("bonjour")
 
 def boucle(a,n):
     for i in range(n):
