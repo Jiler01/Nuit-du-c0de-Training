@@ -2,7 +2,7 @@
 print("Hello")
 
 
-def boucle(a,n):
+def boucle(a, n):
     for i in range(n):
         print("a")
 
