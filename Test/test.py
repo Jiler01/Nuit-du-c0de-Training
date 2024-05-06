@@ -1,10 +1,11 @@
 
-print("hello")
+print("Hello")
 
 
 def boucle(a, n):
     for i in range(n):
-        print("a")
+        print(f"{a}")
+
 
 
 def fibo(n):
