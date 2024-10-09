@@ -1,0 +1,13 @@
+
+print("hello")
+
+
+def boucle(a, n):
+    for i in range(n):
+        print("a")
+
+
+def fibo(n):
+    if n == 0 or n == 1:
+        return 1
+    return fibo(n-1) + fibo(n-2)
